@@ -521,6 +521,7 @@ function! s:InitTypes() abort
         \ {'short' : 'a', 'long' : 'multimethod definition',   'fold' : 0, 'stl' : 1},
         \ {'short' : 'b', 'long' : 'multimethod instance',     'fold' : 0, 'stl' : 1},
         \ {'short' : 'c', 'long' : 'defonce',                  'fold' : 0, 'stl' : 1},
+        \ {'short' : 'u', 'long' : 'defui',                    'fold' : 0, 'stl' : 1},
         \ {'short' : 's', 'long' : 'struct',                   'fold' : 0, 'stl' : 1},
         \ {'short' : 'v', 'long' : 'intern',                   'fold' : 0, 'stl' : 1}
     \ ]
